@@ -49,7 +49,16 @@ The ouput as
 
 ![Screenshot 2025-05-13 223919](https://github.com/user-attachments/assets/cb2bfd39-2f47-423d-91e4-04407b24ff88)
 
+![Screenshot 2025-05-13 223937](https://github.com/user-attachments/assets/0502c584-5038-4d8b-ba56-42f3812eb42d)
 
+![Screenshot 2025-05-13 224004](https://github.com/user-attachments/assets/ef5c91d3-971d-42fd-a1be-2ce96fc95194)
 
+![Screenshot 2025-05-13 224048](https://github.com/user-attachments/assets/b3dedee9-e276-4b91-984a-c06ab139d423)
+
+![Screenshot 2025-05-13 224144](https://github.com/user-attachments/assets/f62860f0-d455-4039-8af8-c8de4c52ba37)
+
+![Screenshot 2025-05-13 224241](https://github.com/user-attachments/assets/c29ebe86-9dc6-4bb4-ad9d-87ea9aac9ad4)
+
+![Screenshot 2025-05-14 213008](https://github.com/user-attachments/assets/593aa511-dbfa-4915-9eb2-4e60f6921ba8)
 
 
