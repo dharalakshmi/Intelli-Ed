@@ -45,3 +45,10 @@ git clone https://github.com/your-repo/intelli-ed.git
 6. Run the ML model script in Python (Bagging classifier):
 run python testapp.py
 
+The ouput as
+![Uploading Screenshot 2025-05-13 223919.png…]()
+
+![Uploading Screenshot 2025-05-13 223937.png…]()
+
+
+
