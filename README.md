@@ -59,6 +59,4 @@ The ouput as
 
 ![Screenshot 2025-05-13 224241](https://github.com/user-attachments/assets/c29ebe86-9dc6-4bb4-ad9d-87ea9aac9ad4)
 
-![Screenshot 2025-05-14 213008](https://github.com/user-attachments/assets/593aa511-dbfa-4915-9eb2-4e60f6921ba8)
-
 
