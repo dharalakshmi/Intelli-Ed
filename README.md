@@ -46,9 +46,10 @@ git clone https://github.com/your-repo/intelli-ed.git
 run python testapp.py
 
 The ouput as
-![Uploading Screenshot 2025-05-13 223919.png…]()
 
-![Uploading Screenshot 2025-05-13 223937.png…]()
+![Screenshot 2025-05-13 223919](https://github.com/user-attachments/assets/cb2bfd39-2f47-423d-91e4-04407b24ff88)
+
+
 
 
 
